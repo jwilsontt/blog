@@ -1,4 +1,4 @@
-#!/Users/jasonwilson/Documents/ProgWork/trydjango19/bin/python
+#!/Users/jasonwilson/Documents/ProgWork/blog/bin/python
 #
 # The Python Imaging Library.
 # $Id$
